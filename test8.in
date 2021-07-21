@@ -1,0 +1,26 @@
+new 3
+neighbours
+init
+0 0
+2 2
+0 2
+2 0
+-1 -1
+neighbours
+game 6
+switch 1 1
+init 
+-1 -1
+switch 1 1
+init 
+-1 -1
+switch 1 1
+init
+-1 -1
+switch 1 1
+init
+-1 -1
+switch 1 1
+init
+-1 -1
+switch 1 1

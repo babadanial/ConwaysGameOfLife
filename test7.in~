@@ -1,0 +1,21 @@
+new 6
+neighbours
+new 5
+init 
+3 2
+-1 -1
+new 12
+init 
+11 11
+13 13
+-1 -1
+init
+5 6
+8 8
+9 5
+10 10
+10 2
+-1 -1
+neighbours
+new 7
+game 0
