@@ -1,7 +1,7 @@
 # ConwaysGameOfLife
 
 Welcome!
-This repository contains the contents of the Conway's Game of Life automaton project written by Daniel Akbarzadeh. It was created in response to an assignment for CS246 at the University of Waterloo; however, all code contained within is written by me and me only.
+This repository contains the contents of the Conway's Game of Life automaton project written by Daniel Akbarzadeh.
 
 This project was written in ___C++___ using the ___Decorator design pattern___.
 
